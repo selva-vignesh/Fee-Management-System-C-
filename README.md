@@ -22,8 +22,7 @@
        4. Other missellanious fee (Only for 1st year)
        5. Placement Training fee (Only for 3rd and 4th years)
 ### Fees included for Management students
-       1. Donation
-       2. Tution Fee
-       3. Book Fee
-       4. Other Misellanious fees (Only for 1st years)
-       5. Placement Training Fee(Only for 3rd and 4th years) 
+       1. Tution Fee
+       2. Book Fee
+       3. Other Misellanious fees (Only for 1st years)
+       4. Placement Training Fee(Only for 3rd and 4th years) 
