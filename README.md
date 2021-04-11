@@ -1,5 +1,5 @@
 # Fee-Management-System-C++
-Types of Student Registration:
+##Types of Student Registration:
        1. Counselling Regular
        2. Management Regular
        3. Counselling Lateral
